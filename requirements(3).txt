@@ -1,0 +1,8 @@
+torch
+numpy
+tiktoken
+gradio
+datasets
+tensorflow
+tqdm
+pdfplumber
